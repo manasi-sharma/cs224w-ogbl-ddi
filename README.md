@@ -1,7 +1,7 @@
 # cs224w-ogbl-ddi
 ## Final Project -- Predicting Drug Interactions with Graph Neural Networks
 
-This is the code for the Final Project of the CS224W: Machine Learning with Graphs course at Stanford University (http://web.stanford.edu/class/cs224w/). For this project, I collaborated with Maya Srikanth and Arpita Singhal.
+This is the code for the Final Project of the CS224W: Machine Learning with Graphs course at Stanford University (http://web.stanford.edu/class/cs224w/) in Autumn '21. For this project, I collaborated with Maya Srikanth and Arpita Singhal.
 
 We applied graph ML techniques and networks (such as the Graph Convolutional Network, GraphSAGE Network and Graph Isomorphism Network) to the ogbl-ddi dataset (https://ogb.stanford.edu/docs/linkprop/#ogbl-ddi) for drug-drug interactions.
 
